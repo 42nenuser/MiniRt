@@ -1,6 +1,5 @@
 ![Alt text](2spheresclose.webm)
-![Alt text](plane_shadow.webm)
-![Alt text](sphereandcylind.png)
+
             
 # miniRT
 
