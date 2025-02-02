@@ -1,3 +1,4 @@
+![Alt text](sphere_checkerboard.webm)
 # miniRT
 
 ## Introduction
