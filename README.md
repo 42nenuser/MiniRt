@@ -2,7 +2,8 @@
 ![Alt text](plane_shadow.gif)
 ![Alt text](sphereandcylind.png)
 
-            
+you can check my source code for these images on my Shadertoy account : 'nenuser'
+or directly via : https://www.shadertoy.com/results?query=nenuser
 # miniRT
 
 ## Introduction
