@@ -1,4 +1,6 @@
-![Alt text](2spheresclose.webm)
+![Alt text](2spheresclose.gif)
+![Alt text](plane_shadow.gif)
+![Alt text](sphereandcylind.png)
 
             
 # miniRT
